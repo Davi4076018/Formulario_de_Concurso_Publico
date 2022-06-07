@@ -1,4 +1,4 @@
-# Formulario de Concurso Público 📋
+# Formulário de Concurso Público 📋
 Formulário de inscrição de candidatos para diferentes concursos públicos, desenvolvido em Java com o uso do JFrame
 
 ## Interface :desktop_computer:<br>
